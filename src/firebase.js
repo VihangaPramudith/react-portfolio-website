@@ -5,12 +5,13 @@ import { getStorage } from 'firebase/storage';
 import { getFirestore } from 'firebase/firestore/lite';
 
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+  apiKey: "AIzaSyDduX2g-o7GdxXUmrm5F8LGB1dDgOyO6YA",
+  authDomain: "portfolio-592b3.firebaseapp.com",
+  projectId: "portfolio-592b3",
+  storageBucket: "portfolio-592b3.appspot.com",
+  messagingSenderId: "500327789031",
+  appId: "1:500327789031:web:cdb87fb631c0b25eee4d42",
+  measurementId: "G-XY0FW5VNTD"
 };
 
 
